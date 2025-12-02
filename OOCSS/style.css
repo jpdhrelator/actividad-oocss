@@ -1,0 +1,27 @@
+.boton-enviar {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+}
+.boton-cancelar {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  background-color: red;
+  color: white;
+}
+.boton-salir {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+}

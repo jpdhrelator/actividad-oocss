@@ -1,0 +1,12 @@
+
+.news-list {
+    list-style: none;
+    padding: 0;
+}
+
+.news-item-link{
+    color: #333;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+}
